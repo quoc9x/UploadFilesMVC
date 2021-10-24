@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FcuS2qtfM08f6sTDZCsUzjAeMP6cqNhNhuU+TYPGdY1X0IyWLFsx3rUMSLnXO8HPNTnQ1dB/6FD9N3xsts0+kg==",
+  "success": true,
+  "projectFilePath": "E:\\1-Work\\Work-Project\\UploadFilesMVC\\UploadFilesMVC\\UploadFilesMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}
